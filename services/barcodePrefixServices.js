@@ -1,12 +1,8 @@
 
 const asyncHandler = require('express-async-handler');
-const BarcodePrefixModel = require('../models/barcodePrefixModel');
-const List = ["United States", "Canada", "France and Monaco"
-]
+const BarcodePrefixModel = require('../models/BarcodePrefixModel');
 
 exports.getPrefix = asyncHandler(async (req, res, next) => {
-    console.log("mm")
-    console.log(req.query.prefix)
     let query = {};
     if (req.query.prefix) {
         const barcodeNum = req.query.prefix;
