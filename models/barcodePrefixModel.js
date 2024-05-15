@@ -16,9 +16,9 @@ const BarcodePrefixSchema = new Schema({
 
 
 
-const BarcodePrefixModel = mongoose.model('BarcodePrefix', BarcodePrefixSchema)
+const barcodePrefixModel = mongoose.model('BarcodePrefix', BarcodePrefixSchema)
 
-module.exports = BarcodePrefixModel
+module.exports = barcodePrefixModel
 
 
 

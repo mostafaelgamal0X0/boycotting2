@@ -1,6 +1,7 @@
 
 const asyncHandler = require('express-async-handler');
-const BarcodePrefixModel = require('../models/BarcodePrefixModel');
+const barcodePrefixModel = require('../models/barcodePrefixModel');
+
 
 exports.getPrefix = asyncHandler(async (req, res, next) => {
     let query = {};
@@ -8,7 +9,7 @@ exports.getPrefix = asyncHandler(async (req, res, next) => {
         const barcodeNum = req.query.prefix;
         query = { barcode: { $regex: barcodeNum, $options: 'i' } };
     }
-    const object = await BarcodePrefixModel.findOne(query)
+    const object = await barcodePrefixModel.findOne(query)
     res.status(200).json({ data: object.country });
 
 });
