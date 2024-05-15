@@ -11,7 +11,7 @@ exports.getCompanies = asyncHandler(async (req, res, next) => {
         query = { company: { $regex: companyName, $options: 'i' } };
     }
     const object = await companiesListModel.findOne(query)
-    if (!objec) {
+    if (!object) {
         res.status(200).json({ success: false });
     }
     res.status(200).json({ success: true });
