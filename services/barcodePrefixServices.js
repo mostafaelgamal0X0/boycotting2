@@ -1,6 +1,6 @@
 
 const asyncHandler = require('express-async-handler');
-const BarcodePrefixModel = require('../models/BarcodePrefixModel');
+const BarcodePrefixModel = require('../models/barcodePrefixModel');
 const List = ["United States", "Canada", "France and Monaco"
 ]
 
