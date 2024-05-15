@@ -1,0 +1,1966 @@
+[
+    {
+        "country": "Canada",
+        "barcode": "000"
+    },
+    {
+        "country": "Canada",
+        "barcode": "001"
+    },
+    {
+        "country": "Canada",
+        "barcode": "002"
+    },
+    {
+        "country": "Canada",
+        "barcode": "003"
+    },
+    {
+        "country": "Canada",
+        "barcode": "004"
+    },
+    {
+        "country": "Canada",
+        "barcode": "005"
+    },
+    {
+        "country": "Canada",
+        "barcode": "006"
+    },
+    {
+        "country": "Canada",
+        "barcode": "007"
+    },
+    {
+        "country": "Canada",
+        "barcode": "008"
+    },
+    {
+        "country": "Canada",
+        "barcode": "009"
+    },
+    {
+        "country": "Canada",
+        "barcode": "010"
+    },
+    {
+        "country": "Canada",
+        "barcode": "011"
+    },
+    {
+        "country": "Canada",
+        "barcode": "012"
+    },
+    {
+        "country": "Canada",
+        "barcode": "013"
+    },
+    {
+        "country": "Canada",
+        "barcode": "014"
+    },
+    {
+        "country": "Canada",
+        "barcode": "015"
+    },
+    {
+        "country": "Canada",
+        "barcode": "016"
+    },
+    {
+        "country": "Canada",
+        "barcode": "017"
+    },
+    {
+        "country": "Canada",
+        "barcode": "018"
+    },
+    {
+        "country": "Canada",
+        "barcode": "019"
+    },
+    {
+        "country": "United States drugs",
+        "barcode": "030"
+    },
+    {
+        "country": "United States drugs",
+        "barcode": "031"
+    },
+    {
+        "country": "United States drugs",
+        "barcode": "032"
+    },
+    {
+        "country": "United States drugs",
+        "barcode": "033"
+    },
+    {
+        "country": "United States drugs",
+        "barcode": "034"
+    },
+    {
+        "country": "United States drugs",
+        "barcode": "035"
+    },
+    {
+        "country": "United States drugs",
+        "barcode": "036"
+    },
+    {
+        "country": "United States drugs",
+        "barcode": "037"
+    },
+    {
+        "country": "United States drugs",
+        "barcode": "038"
+    },
+    {
+        "country": "United States drugs",
+        "barcode": "039"
+    },
+    {
+        "country": "United States and Canada",
+        "barcode": "060"
+    },
+    {
+        "country": "United States and Canada",
+        "barcode": "061"
+    },
+    {
+        "country": "United States and Canada",
+        "barcode": "062"
+    },
+    {
+        "country": "United States and Canada",
+        "barcode": "063"
+    },
+    {
+        "country": "United States and Canada",
+        "barcode": "064"
+    },
+    {
+        "country": "United States and Canada",
+        "barcode": "065"
+    },
+    {
+        "country": "United States and Canada",
+        "barcode": "066"
+    },
+    {
+        "country": "United States and Canada",
+        "barcode": "067"
+    },
+    {
+        "country": "United States and Canada",
+        "barcode": "068"
+    },
+    {
+        "country": "United States and Canada",
+        "barcode": "069"
+    },
+    {
+        "country": "United States",
+        "barcode": "100"
+    },
+    {
+        "country": "United States",
+        "barcode": "101"
+    },
+    {
+        "country": "United States",
+        "barcode": "102"
+    },
+    {
+        "country": "United States",
+        "barcode": "103"
+    },
+    {
+        "country": "United States",
+        "barcode": "104"
+    },
+    {
+        "country": "United States",
+        "barcode": "105"
+    },
+    {
+        "country": "United States",
+        "barcode": "106"
+    },
+    {
+        "country": "United States",
+        "barcode": "107"
+    },
+    {
+        "country": "United States",
+        "barcode": "108"
+    },
+    {
+        "country": "United States",
+        "barcode": "109"
+    },
+    {
+        "country": "United States",
+        "barcode": "110"
+    },
+    {
+        "country": "United States",
+        "barcode": "111"
+    },
+    {
+        "country": "United States",
+        "barcode": "112"
+    },
+    {
+        "country": "United States",
+        "barcode": "113"
+    },
+    {
+        "country": "United States",
+        "barcode": "114"
+    },
+    {
+        "country": "United States",
+        "barcode": "115"
+    },
+    {
+        "country": "United States",
+        "barcode": "116"
+    },
+    {
+        "country": "United States",
+        "barcode": "117"
+    },
+    {
+        "country": "United States",
+        "barcode": "118"
+    },
+    {
+        "country": "United States",
+        "barcode": "119"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "300"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "301"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "302"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "303"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "304"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "305"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "306"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "307"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "308"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "309"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "310"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "311"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "312"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "313"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "314"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "315"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "316"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "317"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "318"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "319"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "320"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "321"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "322"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "323"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "324"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "325"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "326"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "327"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "328"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "329"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "330"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "331"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "332"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "333"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "334"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "335"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "336"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "337"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "338"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "339"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "340"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "341"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "342"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "343"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "344"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "345"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "346"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "347"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "348"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "349"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "350"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "351"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "352"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "353"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "354"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "355"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "356"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "357"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "358"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "359"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "360"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "361"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "362"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "363"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "364"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "365"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "366"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "367"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "368"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "369"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "370"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "371"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "372"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "373"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "374"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "375"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "376"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "377"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "378"
+    },
+    {
+        "country": "France and Monaco",
+        "barcode": "379"
+    },
+    {
+        "country": "Bulgaria",
+        "barcode": "380"
+    },
+    {
+        "country": "Slovenia",
+        "barcode": "383"
+    },
+    {
+        "country": "Croatia",
+        "barcode": "385"
+    },
+    {
+        "country": "Bosnia and Herzegovina",
+        "barcode": "387"
+    },
+    {
+        "country": "Montenegro",
+        "barcode": "389"
+    },
+    {
+        "country": "Kosovo",
+        "barcode": "390"
+    },
+    {
+        "country": "Germany",
+        "barcode": "400"
+    },
+    {
+        "country": "Germany",
+        "barcode": "401"
+    },
+    {
+        "country": "Germany",
+        "barcode": "402"
+    },
+    {
+        "country": "Germany",
+        "barcode": "403"
+    },
+    {
+        "country": "Germany",
+        "barcode": "404"
+    },
+    {
+        "country": "Germany",
+        "barcode": "405"
+    },
+    {
+        "country": "Germany",
+        "barcode": "406"
+    },
+    {
+        "country": "Germany",
+        "barcode": "407"
+    },
+    {
+        "country": "Germany",
+        "barcode": "408"
+    },
+    {
+        "country": "Germany",
+        "barcode": "409"
+    },
+    {
+        "country": "Germany",
+        "barcode": "410"
+    },
+    {
+        "country": "Germany",
+        "barcode": "411"
+    },
+    {
+        "country": "Germany",
+        "barcode": "412"
+    },
+    {
+        "country": "Germany",
+        "barcode": "413"
+    },
+    {
+        "country": "Germany",
+        "barcode": "414"
+    },
+    {
+        "country": "Germany",
+        "barcode": "415"
+    },
+    {
+        "country": "Germany",
+        "barcode": "416"
+    },
+    {
+        "country": "Germany",
+        "barcode": "417"
+    },
+    {
+        "country": "Germany",
+        "barcode": "418"
+    },
+    {
+        "country": "Germany",
+        "barcode": "419"
+    },
+    {
+        "country": "Germany",
+        "barcode": "420"
+    },
+    {
+        "country": "Germany",
+        "barcode": "421"
+    },
+    {
+        "country": "Germany",
+        "barcode": "422"
+    },
+    {
+        "country": "Germany",
+        "barcode": "423"
+    },
+    {
+        "country": "Germany",
+        "barcode": "424"
+    },
+    {
+        "country": "Germany",
+        "barcode": "425"
+    },
+    {
+        "country": "Germany",
+        "barcode": "426"
+    },
+    {
+        "country": "Germany",
+        "barcode": "427"
+    },
+    {
+        "country": "Germany",
+        "barcode": "428"
+    },
+    {
+        "country": "Germany",
+        "barcode": "429"
+    },
+    {
+        "country": "Germany",
+        "barcode": "430"
+    },
+    {
+        "country": "Germany",
+        "barcode": "431"
+    },
+    {
+        "country": "Germany",
+        "barcode": "432"
+    },
+    {
+        "country": "Germany",
+        "barcode": "433"
+    },
+    {
+        "country": "Germany",
+        "barcode": "434"
+    },
+    {
+        "country": "Germany",
+        "barcode": "435"
+    },
+    {
+        "country": "Germany",
+        "barcode": "436"
+    },
+    {
+        "country": "Germany",
+        "barcode": "437"
+    },
+    {
+        "country": "Germany",
+        "barcode": "438"
+    },
+    {
+        "country": "Germany",
+        "barcode": "439"
+    },
+    {
+        "country": "Germany",
+        "barcode": "440"
+    },
+    {
+        "country": "Japan",
+        "barcode": "450"
+    },
+    {
+        "country": "Japan",
+        "barcode": "451"
+    },
+    {
+        "country": "Japan",
+        "barcode": "452"
+    },
+    {
+        "country": "Japan",
+        "barcode": "453"
+    },
+    {
+        "country": "Japan",
+        "barcode": "454"
+    },
+    {
+        "country": "Japan",
+        "barcode": "455"
+    },
+    {
+        "country": "Japan",
+        "barcode": "456"
+    },
+    {
+        "country": "Japan",
+        "barcode": "457"
+    },
+    {
+        "country": "Japan",
+        "barcode": "458"
+    },
+    {
+        "country": "Japan",
+        "barcode": "459"
+    },
+    {
+        "country": "Russia",
+        "barcode": "460"
+    },
+    {
+        "country": "Russia",
+        "barcode": "461"
+    },
+    {
+        "country": "Russia",
+        "barcode": "462"
+    },
+    {
+        "country": "Russia",
+        "barcode": "463"
+    },
+    {
+        "country": "Russia",
+        "barcode": "464"
+    },
+    {
+        "country": "Russia",
+        "barcode": "465"
+    },
+    {
+        "country": "Russia",
+        "barcode": "466"
+    },
+    {
+        "country": "Russia",
+        "barcode": "467"
+    },
+    {
+        "country": "Russia",
+        "barcode": "468"
+    },
+    {
+        "country": "Russia",
+        "barcode": "469"
+    },
+    {
+        "country": "Kyrgyzstan",
+        "barcode": "470"
+    },
+    {
+        "country": "Taiwan",
+        "barcode": "471"
+    },
+    {
+        "country": "Estonia",
+        "barcode": "474"
+    },
+    {
+        "country": "Latvia",
+        "barcode": "475"
+    },
+    {
+        "country": "Azerbaijan",
+        "barcode": "476"
+    },
+    {
+        "country": "Lithuania",
+        "barcode": "477"
+    },
+    {
+        "country": "Uzbekistan",
+        "barcode": "478"
+    },
+    {
+        "country": "Sri Lanka",
+        "barcode": "479"
+    },
+    {
+        "country": "Philippines",
+        "barcode": "480"
+    },
+    {
+        "country": "Belarus",
+        "barcode": "481"
+    },
+    {
+        "country": "Ukraine",
+        "barcode": "482"
+    },
+    {
+        "country": "Turkmenistan",
+        "barcode": "483"
+    },
+    {
+        "country": "Moldova",
+        "barcode": "484"
+    },
+    {
+        "country": "Armenia",
+        "barcode": "485"
+    },
+    {
+        "country": "Georgia",
+        "barcode": "486"
+    },
+    {
+        "country": "Kazakhstan",
+        "barcode": "487"
+    },
+    {
+        "country": "Tajikistan",
+        "barcode": "488"
+    },
+    {
+        "country": "Hong Kong",
+        "barcode": "489"
+    },
+    {
+        "country": "Japan",
+        "barcode": "490"
+    },
+    {
+        "country": "Japan",
+        "barcode": "491"
+    },
+    {
+        "country": "Japan",
+        "barcode": "492"
+    },
+    {
+        "country": "Japan",
+        "barcode": "493"
+    },
+    {
+        "country": "Japan",
+        "barcode": "494"
+    },
+    {
+        "country": "Japan",
+        "barcode": "495"
+    },
+    {
+        "country": "Japan",
+        "barcode": "496"
+    },
+    {
+        "country": "Japan",
+        "barcode": "497"
+    },
+    {
+        "country": "Japan",
+        "barcode": "498"
+    },
+    {
+        "country": "Japan",
+        "barcode": "499"
+    },
+    {
+        "country": "United Kingdom",
+        "barcode": "500"
+    },
+    {
+        "country": "United Kingdom",
+        "barcode": "501"
+    },
+    {
+        "country": "United Kingdom",
+        "barcode": "502"
+    },
+    {
+        "country": "United Kingdom",
+        "barcode": "503"
+    },
+    {
+        "country": "United Kingdom",
+        "barcode": "504"
+    },
+    {
+        "country": "United Kingdom",
+        "barcode": "505"
+    },
+    {
+        "country": "United Kingdom",
+        "barcode": "506"
+    },
+    {
+        "country": "United Kingdom",
+        "barcode": "507"
+    },
+    {
+        "country": "United Kingdom",
+        "barcode": "508"
+    },
+    {
+        "country": "United Kingdom",
+        "barcode": "509"
+    },
+    {
+        "country": "Greece",
+        "barcode": "520"
+    },
+    {
+        "country": "Greece",
+        "barcode": "521"
+    },
+    {
+        "country": "Lebanon",
+        "barcode": "528"
+    },
+    {
+        "country": "Cyprus",
+        "barcode": "529"
+    },
+    {
+        "country": "Albania",
+        "barcode": "530"
+    },
+    {
+        "country": "Macedonia",
+        "barcode": "531"
+    },
+    {
+        "country": "Malta",
+        "barcode": "535"
+    },
+    {
+        "country": "Republic of Ireland",
+        "barcode": "539"
+    },
+    {
+        "country": "Belgium and Luxembourg",
+        "barcode": "540"
+    },
+    {
+        "country": "Belgium and Luxembourg",
+        "barcode": "541"
+    },
+    {
+        "country": "Belgium and Luxembourg",
+        "barcode": "542"
+    },
+    {
+        "country": "Belgium and Luxembourg",
+        "barcode": "543"
+    },
+    {
+        "country": "Belgium and Luxembourg",
+        "barcode": "544"
+    },
+    {
+        "country": "Belgium and Luxembourg",
+        "barcode": "545"
+    },
+    {
+        "country": "Belgium and Luxembourg",
+        "barcode": "546"
+    },
+    {
+        "country": "Belgium and Luxembourg",
+        "barcode": "547"
+    },
+    {
+        "country": "Belgium and Luxembourg",
+        "barcode": "548"
+    },
+    {
+        "country": "Belgium and Luxembourg",
+        "barcode": "549"
+    },
+    {
+        "country": "Portugal",
+        "barcode": "560"
+    },
+    {
+        "country": "Iceland",
+        "barcode": "569"
+    },
+    {
+        "country": "Denmark",
+        "barcode": "570"
+    },
+    {
+        "country": "Denmark",
+        "barcode": "571"
+    },
+    {
+        "country": "Denmark",
+        "barcode": "572"
+    },
+    {
+        "country": "Denmark",
+        "barcode": "573"
+    },
+    {
+        "country": "Denmark",
+        "barcode": "574"
+    },
+    {
+        "country": "Denmark",
+        "barcode": "575"
+    },
+    {
+        "country": "Denmark",
+        "barcode": "576"
+    },
+    {
+        "country": "Denmark",
+        "barcode": "577"
+    },
+    {
+        "country": "Denmark",
+        "barcode": "578"
+    },
+    {
+        "country": "Denmark",
+        "barcode": "579"
+    },
+    {
+        "country": "Poland",
+        "barcode": "590"
+    },
+    {
+        "country": "Romania",
+        "barcode": "594"
+    },
+    {
+        "country": "Hungary",
+        "barcode": "599"
+    },
+    {
+        "country": "South Africa",
+        "barcode": "600"
+    },
+    {
+        "country": "South Africa",
+        "barcode": "601"
+    },
+    {
+        "country": "Ghana",
+        "barcode": "603"
+    },
+    {
+        "country": "Senegal",
+        "barcode": "604"
+    },
+    {
+        "country": "Bahrain",
+        "barcode": "608"
+    },
+    {
+        "country": "Mauritius",
+        "barcode": "609"
+    },
+    {
+        "country": "Morocco",
+        "barcode": "611"
+    },
+    {
+        "country": "Algeria",
+        "barcode": "613"
+    },
+    {
+        "country": "Nigeria",
+        "barcode": "615"
+    },
+    {
+        "country": "Kenya",
+        "barcode": "616"
+    },
+    {
+        "country": "Ivory Coast",
+        "barcode": "618"
+    },
+    {
+        "country": "Tunisia",
+        "barcode": "619"
+    },
+    {
+        "country": "Tanzania",
+        "barcode": "620"
+    },
+    {
+        "country": "Syria",
+        "barcode": "621"
+    },
+    {
+        "country": "Egypt",
+        "barcode": "622"
+    },
+    {
+        "country": "Brunei",
+        "barcode": "623"
+    },
+    {
+        "country": "Libya",
+        "barcode": "624"
+    },
+    {
+        "country": "Jordan",
+        "barcode": "625"
+    },
+    {
+        "country": "Iran",
+        "barcode": "626"
+    },
+    {
+        "country": "Kuwait",
+        "barcode": "627"
+    },
+    {
+        "country": "Saudi Arabia",
+        "barcode": "628"
+    },
+    {
+        "country": "United Arab Emirates",
+        "barcode": "629"
+    },
+    {
+        "country": "Finland",
+        "barcode": "640"
+    },
+    {
+        "country": "Finland",
+        "barcode": "641"
+    },
+    {
+        "country": "Finland",
+        "barcode": "642"
+    },
+    {
+        "country": "Finland",
+        "barcode": "643"
+    },
+    {
+        "country": "Finland",
+        "barcode": "644"
+    },
+    {
+        "country": "Finland",
+        "barcode": "645"
+    },
+    {
+        "country": "Finland",
+        "barcode": "646"
+    },
+    {
+        "country": "Finland",
+        "barcode": "647"
+    },
+    {
+        "country": "Finland",
+        "barcode": "648"
+    },
+    {
+        "country": "Finland",
+        "barcode": "649"
+    },
+    {
+        "country": "China",
+        "barcode": "690"
+    },
+    {
+        "country": "China",
+        "barcode": "691"
+    },
+    {
+        "country": "China",
+        "barcode": "692"
+    },
+    {
+        "country": "China",
+        "barcode": "693"
+    },
+    {
+        "country": "China",
+        "barcode": "694"
+    },
+    {
+        "country": "China",
+        "barcode": "695"
+    },
+    {
+        "country": "China",
+        "barcode": "696"
+    },
+    {
+        "country": "China",
+        "barcode": "697"
+    },
+    {
+        "country": "China",
+        "barcode": "698"
+    },
+    {
+        "country": "China",
+        "barcode": "699"
+    },
+    {
+        "country": "Norway",
+        "barcode": "700"
+    },
+    {
+        "country": "Norway",
+        "barcode": "701"
+    },
+    {
+        "country": "Norway",
+        "barcode": "702"
+    },
+    {
+        "country": "Norway",
+        "barcode": "703"
+    },
+    {
+        "country": "Norway",
+        "barcode": "704"
+    },
+    {
+        "country": "Norway",
+        "barcode": "705"
+    },
+    {
+        "country": "Norway",
+        "barcode": "706"
+    },
+    {
+        "country": "Norway",
+        "barcode": "707"
+    },
+    {
+        "country": "Norway",
+        "barcode": "708"
+    },
+    {
+        "country": "Norway",
+        "barcode": "709"
+    },
+    {
+        "country": "Israel",
+        "barcode": "729"
+    },
+    {
+        "country": "Sweden : EAN/GS1 Sweden",
+        "barcode": "730"
+    },
+    {
+        "country": "Sweden : EAN/GS1 Sweden",
+        "barcode": "731"
+    },
+    {
+        "country": "Sweden : EAN/GS1 Sweden",
+        "barcode": "732"
+    },
+    {
+        "country": "Sweden : EAN/GS1 Sweden",
+        "barcode": "733"
+    },
+    {
+        "country": "Sweden : EAN/GS1 Sweden",
+        "barcode": "734"
+    },
+    {
+        "country": "Sweden : EAN/GS1 Sweden",
+        "barcode": "735"
+    },
+    {
+        "country": "Sweden : EAN/GS1 Sweden",
+        "barcode": "736"
+    },
+    {
+        "country": "Sweden : EAN/GS1 Sweden",
+        "barcode": "737"
+    },
+    {
+        "country": "Sweden : EAN/GS1 Sweden",
+        "barcode": "738"
+    },
+    {
+        "country": "Sweden : EAN/GS1 Sweden",
+        "barcode": "739"
+    },
+    {
+        "country": "Guatemala",
+        "barcode": "740"
+    },
+    {
+        "country": "El Salvador",
+        "barcode": "741"
+    },
+    {
+        "country": "Honduras",
+        "barcode": "742"
+    },
+    {
+        "country": "Nicaragua",
+        "barcode": "743"
+    },
+    {
+        "country": "Costa Rica",
+        "barcode": "744"
+    },
+    {
+        "country": "Panama",
+        "barcode": "745"
+    },
+    {
+        "country": "Dominican Republic",
+        "barcode": "746"
+    },
+    {
+        "country": "Mexico",
+        "barcode": "750"
+    },
+    {
+        "country": "Canada",
+        "barcode": "754"
+    },
+    {
+        "country": "Canada",
+        "barcode": "755"
+    },
+    {
+        "country": "Venezuela",
+        "barcode": "759"
+    },
+    {
+        "country": "Switzerland and Liechtenstein",
+        "barcode": "760"
+    },
+    {
+        "country": "Switzerland and Liechtenstein",
+        "barcode": "761"
+    },
+    {
+        "country": "Switzerland and Liechtenstein",
+        "barcode": "762"
+    },
+    {
+        "country": "Switzerland and Liechtenstein",
+        "barcode": "763"
+    },
+    {
+        "country": "Switzerland and Liechtenstein",
+        "barcode": "764"
+    },
+    {
+        "country": "Switzerland and Liechtenstein",
+        "barcode": "765"
+    },
+    {
+        "country": "Switzerland and Liechtenstein",
+        "barcode": "766"
+    },
+    {
+        "country": "Switzerland and Liechtenstein",
+        "barcode": "767"
+    },
+    {
+        "country": "Switzerland and Liechtenstein",
+        "barcode": "768"
+    },
+    {
+        "country": "Switzerland and Liechtenstein",
+        "barcode": "769"
+    },
+    {
+        "country": "Colombia",
+        "barcode": "770"
+    },
+    {
+        "country": "Colombia",
+        "barcode": "771"
+    },
+    {
+        "country": "Uruguay",
+        "barcode": "773"
+    },
+    {
+        "country": "Peru",
+        "barcode": "775"
+    },
+    {
+        "country": "Bolivia",
+        "barcode": "777"
+    },
+    {
+        "country": "Argentina",
+        "barcode": "778"
+    },
+    {
+        "country": "Argentina",
+        "barcode": "779"
+    },
+    {
+        "country": "Chile",
+        "barcode": "780"
+    },
+    {
+        "country": "Paraguay",
+        "barcode": "784"
+    },
+    {
+        "country": "Ecuador",
+        "barcode": "786"
+    },
+    {
+        "country": "Brazil",
+        "barcode": "789"
+    },
+    {
+        "country": "Brazil",
+        "barcode": "790"
+    },
+    {
+        "country": "Italy, San Marino and Vatican City",
+        "barcode": "800"
+    },
+    {
+        "country": "Italy, San Marino and Vatican City",
+        "barcode": "801"
+    },
+    {
+        "country": "Italy, San Marino and Vatican City",
+        "barcode": "802"
+    },
+    {
+        "country": "Italy, San Marino and Vatican City",
+        "barcode": "803"
+    },
+    {
+        "country": "Italy, San Marino and Vatican City",
+        "barcode": "804"
+    },
+    {
+        "country": "Italy, San Marino and Vatican City",
+        "barcode": "805"
+    },
+    {
+        "country": "Italy, San Marino and Vatican City",
+        "barcode": "806"
+    },
+    {
+        "country": "Italy, San Marino and Vatican City",
+        "barcode": "807"
+    },
+    {
+        "country": "Italy, San Marino and Vatican City",
+        "barcode": "808"
+    },
+    {
+        "country": "Italy, San Marino and Vatican City",
+        "barcode": "809"
+    },
+    {
+        "country": "Italy, San Marino and Vatican City",
+        "barcode": "810"
+    },
+    {
+        "country": "Italy, San Marino and Vatican City",
+        "barcode": "811"
+    },
+    {
+        "country": "Italy, San Marino and Vatican City",
+        "barcode": "812"
+    },
+    {
+        "country": "Italy, San Marino and Vatican City",
+        "barcode": "813"
+    },
+    {
+        "country": "Italy, San Marino and Vatican City",
+        "barcode": "814"
+    },
+    {
+        "country": "Italy, San Marino and Vatican City",
+        "barcode": "815"
+    },
+    {
+        "country": "Italy, San Marino and Vatican City",
+        "barcode": "816"
+    },
+    {
+        "country": "Italy, San Marino and Vatican City",
+        "barcode": "817"
+    },
+    {
+        "country": "Italy, San Marino and Vatican City",
+        "barcode": "818"
+    },
+    {
+        "country": "Italy, San Marino and Vatican City",
+        "barcode": "819"
+    },
+    {
+        "country": "Italy, San Marino and Vatican City",
+        "barcode": "820"
+    },
+    {
+        "country": "Italy, San Marino and Vatican City",
+        "barcode": "821"
+    },
+    {
+        "country": "Italy, San Marino and Vatican City",
+        "barcode": "822"
+    },
+    {
+        "country": "Italy, San Marino and Vatican City",
+        "barcode": "823"
+    },
+    {
+        "country": "Italy, San Marino and Vatican City",
+        "barcode": "824"
+    },
+    {
+        "country": "Italy, San Marino and Vatican City",
+        "barcode": "825"
+    },
+    {
+        "country": "Italy, San Marino and Vatican City",
+        "barcode": "826"
+    },
+    {
+        "country": "Italy, San Marino and Vatican City",
+        "barcode": "827"
+    },
+    {
+        "country": "Italy, San Marino and Vatican City",
+        "barcode": "828"
+    },
+    {
+        "country": "Italy, San Marino and Vatican City",
+        "barcode": "829"
+    },
+    {
+        "country": "Italy, San Marino and Vatican City",
+        "barcode": "830"
+    },
+    {
+        "country": "Italy, San Marino and Vatican City",
+        "barcode": "831"
+    },
+    {
+        "country": "Italy, San Marino and Vatican City",
+        "barcode": "832"
+    },
+    {
+        "country": "Italy, San Marino and Vatican City",
+        "barcode": "833"
+    },
+    {
+        "country": "Italy, San Marino and Vatican City",
+        "barcode": "834"
+    },
+    {
+        "country": "Italy, San Marino and Vatican City",
+        "barcode": "835"
+    },
+    {
+        "country": "Italy, San Marino and Vatican City",
+        "barcode": "836"
+    },
+    {
+        "country": "Italy, San Marino and Vatican City",
+        "barcode": "837"
+    },
+    {
+        "country": "Italy, San Marino and Vatican City",
+        "barcode": "838"
+    },
+    {
+        "country": "Spain and Andorra",
+        "barcode": "840"
+    },
+    {
+        "country": "Spain and Andorra",
+        "barcode": "841"
+    },
+    {
+        "country": "Spain and Andorra",
+        "barcode": "842"
+    },
+    {
+        "country": "Spain and Andorra",
+        "barcode": "843"
+    },
+    {
+        "country": "Spain and Andorra",
+        "barcode": "844"
+    },
+    {
+        "country": "Spain and Andorra",
+        "barcode": "845"
+    },
+    {
+        "country": "Spain and Andorra",
+        "barcode": "846"
+    },
+    {
+        "country": "Spain and Andorra",
+        "barcode": "847"
+    },
+    {
+        "country": "Spain and Andorra",
+        "barcode": "848"
+    },
+    {
+        "country": "Spain and Andorra",
+        "barcode": "849"
+    },
+    {
+        "country": "Cuba",
+        "barcode": "850"
+    },
+    {
+        "country": "Slovakia",
+        "barcode": "858"
+    },
+    {
+        "country": "Czech Republic",
+        "barcode": "859"
+    },
+    {
+        "country": "Serbia",
+        "barcode": "860"
+    },
+    {
+        "country": "Mongolia",
+        "barcode": "865"
+    },
+    {
+        "country": "North Korea",
+        "barcode": "867"
+    },
+    {
+        "country": "Turkey",
+        "barcode": "868"
+    },
+    {
+        "country": "Turkey",
+        "barcode": "869"
+    },
+    {
+        "country": "Netherlands",
+        "barcode": "870"
+    },
+    {
+        "country": "Netherlands",
+        "barcode": "871"
+    },
+    {
+        "country": "Netherlands",
+        "barcode": "872"
+    },
+    {
+        "country": "Netherlands",
+        "barcode": "873"
+    },
+    {
+        "country": "Netherlands",
+        "barcode": "874"
+    },
+    {
+        "country": "Netherlands",
+        "barcode": "875"
+    },
+    {
+        "country": "Netherlands",
+        "barcode": "876"
+    },
+    {
+        "country": "Netherlands",
+        "barcode": "877"
+    },
+    {
+        "country": "Netherlands",
+        "barcode": "878"
+    },
+    {
+        "country": "Netherlands",
+        "barcode": "879"
+    },
+    {
+        "country": "South Korea",
+        "barcode": "880"
+    },
+    {
+        "country": "Cambodia",
+        "barcode": "884"
+    },
+    {
+        "country": "Thailand",
+        "barcode": "885"
+    },
+    {
+        "country": "Singapore",
+        "barcode": "888"
+    },
+    {
+        "country": "India",
+        "barcode": "890"
+    },
+    {
+        "country": "Vietnam",
+        "barcode": "893"
+    },
+    {
+        "country": "Pakistan",
+        "barcode": "896"
+    },
+    {
+        "country": "Indonesia",
+        "barcode": "899"
+    },
+    {
+        "country": "Austria",
+        "barcode": "900"
+    },
+    {
+        "country": "Austria",
+        "barcode": "901"
+    },
+    {
+        "country": "Austria",
+        "barcode": "902"
+    },
+    {
+        "country": "Austria",
+        "barcode": "903"
+    },
+    {
+        "country": "Austria",
+        "barcode": "904"
+    },
+    {
+        "country": "Austria",
+        "barcode": "905"
+    },
+    {
+        "country": "Austria",
+        "barcode": "906"
+    },
+    {
+        "country": "Austria",
+        "barcode": "907"
+    },
+    {
+        "country": "Austria",
+        "barcode": "908"
+    },
+    {
+        "country": "Austria",
+        "barcode": "909"
+    },
+    {
+        "country": "Austria",
+        "barcode": "910"
+    },
+    {
+        "country": "Austria",
+        "barcode": "911"
+    },
+    {
+        "country": "Austria",
+        "barcode": "912"
+    },
+    {
+        "country": "Austria",
+        "barcode": "913"
+    },
+    {
+        "country": "Austria",
+        "barcode": "914"
+    },
+    {
+        "country": "Austria",
+        "barcode": "915"
+    },
+    {
+        "country": "Austria",
+        "barcode": "916"
+    },
+    {
+        "country": "Austria",
+        "barcode": "917"
+    },
+    {
+        "country": "Austria",
+        "barcode": "918"
+    },
+    {
+        "country": "Austria",
+        "barcode": "919"
+    },
+    {
+        "country": "Australia",
+        "barcode": "930"
+    },
+    {
+        "country": "Australia",
+        "barcode": "931"
+    },
+    {
+        "country": "Australia",
+        "barcode": "932"
+    },
+    {
+        "country": "Australia",
+        "barcode": "933"
+    },
+    {
+        "country": "Australia",
+        "barcode": "934"
+    },
+    {
+        "country": "Australia",
+        "barcode": "935"
+    },
+    {
+        "country": "Australia",
+        "barcode": "936"
+    },
+    {
+        "country": "Australia",
+        "barcode": "937"
+    },
+    {
+        "country": "Australia",
+        "barcode": "938"
+    },
+    {
+        "country": "Australia",
+        "barcode": "939"
+    },
+    {
+        "country": "New Zealand",
+        "barcode": "940"
+    },
+    {
+        "country": "New Zealand",
+        "barcode": "941"
+    },
+    {
+        "country": "New Zealand",
+        "barcode": "942"
+    },
+    {
+        "country": "New Zealand",
+        "barcode": "943"
+    },
+    {
+        "country": "New Zealand",
+        "barcode": "944"
+    },
+    {
+        "country": "New Zealand",
+        "barcode": "945"
+    },
+    {
+        "country": "New Zealand",
+        "barcode": "946"
+    },
+    {
+        "country": "New Zealand",
+        "barcode": "947"
+    },
+    {
+        "country": "New Zealand",
+        "barcode": "948"
+    },
+    {
+        "country": "New Zealand",
+        "barcode": "949"
+    },
+    {
+        "country": "Malaysia",
+        "barcode": "955"
+    },
+    {
+        "country": "Macau",
+        "barcode": "958"
+    }
+]
